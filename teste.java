@@ -142,7 +142,7 @@ public class teste {
             equipes.add(novaEquipe);
         }
 
-        for(int i = 0; i < 3; i++){
+        for(int i = 0; i < 8; i++){
             equipes = formarEquipes(duplas, equipes);
         }
 
